@@ -1,0 +1,13 @@
+{
+  "name": "parcel-side-effect-bug-repro",
+  "private": true,
+  "source": "index.html",
+  "type": "module",
+  "sideEffects": false,
+  "scripts": {
+    "dev": "parcel serve --open"
+  },
+  "devDependencies": {
+    "parcel": "2.9.2"
+  }
+}
