@@ -1,5 +1,7 @@
 # Parcel Bug Report
 
+→ https://github.com/parcel-bundler/parcel/issues/9140
+
 This little repo demonstrates a possible bug with Parcel v2.9.2. To run the test case:
 
 1. `pnpm install`
